@@ -12,21 +12,23 @@ _Marlin_ es un firmware para máquinas RepRap, tambien conocidas como _3D printe
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 Please let us know if Marlin misbehaves in any way. Volunteers are standing by!
 
-### BigTreeTech Updated their Firmware, get it here:
+### BigTreeTech Actualiza su firmware, consíguelo aquí:
 https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3
 
-## Building Marlin 2.0
+## Building Marlin 2.0 (compilando)
 
-To build Marlin you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino.cc/en/main/software) or [PlatformIO](http://docs.platformio.org/en/latest/ide.html#platformio-ide) with _[Visual Studio Code](https://code.visualstudio.com/download)_.
+Para compilar Marlin necesitarás [Arduino IDE 1.8.8 or newer](https://www.arduino.cc/en/main/software) o [PlatformIO](http://docs.platformio.org/en/latest/ide.html#platformio-ide) con _[Visual Studio Code](https://code.visualstudio.com/download)_.
 
-- [Installing Marlin (Arduino)](http://marlinfw.org/docs/basics/install_arduino.html)
-- [Installing Marlin (VSCode)](http://marlinfw.org/docs/basics/install_platformio_vscode.html).
+- [Instalando Marlin (Arduino)](http://marlinfw.org/docs/basics/install_arduino.html)
+- [Instalando Marlin (VSCode)](http://marlinfw.org/docs/basics/install_platformio_vscode.html).
 
-## Current Target
+Si instalas VSC ejecutando el archivo "marlin para skr 1.2 y ender3.codework debe cargarte con todo en VSC.
 
-Creality Ender-3 with SKR Mini E3 v1.2 and Creality BLTouch 3.1
+## Objetivo actual
 
-## Features Enabled
+Creality Ender-3 wiconth SKR Mini E3 v1.2 y Creality BLTouch 3.1
+
+## Características activadas:
 
 - BLTouch (Bi-Linear Bed Leveling)
 - Custom Status Screen (Ender-3 Default)
@@ -43,19 +45,20 @@ Creality Ender-3 with SKR Mini E3 v1.2 and Creality BLTouch 3.1
 - Pre-Heat for "PLA" and "PETG"
 - Fix for EEPROM saving issue
 
-## BLTouch Wiring
+## BLTouch conexiones
 
-Connected as ANTCLABS web says:
+Conectado según la web de ANTCLABS:
 
 <img src="/img/bltouch-wiring.jpeg" />
 
-Please note that ANTCLabs cable colors could be differnet.
+Ten en cuenta que los colores pueden variar.
 
-## Binary File is in the BIN Folder
+## El archivo Binario está en la carpeta BIN.
 
-Please make sure to go over the configuration of the system before installing this Firmware.
 
-4 Flavors, with self explanatory names, BLTouch uses a 5x5 grid to probe, Manual Bed Leveling uses a 3x3 grid, adn 512K 3x3 grid.
+Para instalarlo solamente tienes que copiar el archivo que decidas en el SD, encender la impresora y esperar hasta que se reinicie.
+
+3 tipos de firmwares explicados en la descripcion. Yo uso el de 512k. BLTouch usa una cama de 5x5 grid to probe, Manual Bed Leveling usa una cama de 3x3, y 512K usa una cama de 3x3.
 
 - [SKR_Mini_E3_v1.2_256K_BLTouch_v3.1](https://raw.githubusercontent.com/damvcoool/Marlin-2.0.x-SKR-Mini-E3-v1.2/master/bin/SKR_Mini_E3_v1.2_256K_BLTouch_v3.1.bin)
 - [SKR_Mini_E3_v1.2_256K_Manual_Bed_Level](https://raw.githubusercontent.com/damvcoool/Marlin-2.0.x-SKR-Mini-E3-v1.2/master/bin/SKR_Mini_E3_v1.2_256K_Manual_Bed_Level.bin)
