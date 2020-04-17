@@ -7,7 +7,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
 
-_Marlin_ is a firmware for RepRap machines, also known as _3D printers_. firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards through the use of a "hardware abstraction layer."
+_Marlin_ es un firmware para máquinas RepRap, tambien conocidas como _3D printers_. Este firmware añade suporte para las placas mucho mas rapidas a 32-bit y ARM mejorando las antiguas de 8-bit usando el  "hardware abstraction layer."
 
 Additional documentation can be found at the [Marlin Home Page](http://marlinfw.org/).
 Please let us know if Marlin misbehaves in any way. Volunteers are standing by!
