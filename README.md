@@ -47,7 +47,7 @@ Creality Ender-3 with SKR Mini E3 v1.2 and Creality BLTouch 3.1
 
 Connected as ANTCLABS web says:
 
-https://camo.githubusercontent.com/56b380ce77969d6bf7e4d627094676b2625dc876/68747470733a2f2f692e696d6775722e636f6d2f42524a516e65392e6a7067
+<img>https://github.com/AnakinSpain/Malin-2.0.5.3-para-SKR-mini-E3-1.2-y-Ender-3/blob/master/img/bltouch-wiring.jpeg</img>
 
 Please note that ANTCLabs cable colors could be differnet.
 
