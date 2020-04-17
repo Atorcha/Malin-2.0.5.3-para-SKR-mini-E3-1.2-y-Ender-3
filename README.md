@@ -47,7 +47,7 @@ Creality Ender-3 with SKR Mini E3 v1.2 and Creality BLTouch 3.1
 
 Connected as ANTCLABS web says:
 
-<img>https://github.com/AnakinSpain/Malin-2.0.5.3-para-SKR-mini-E3-1.2-y-Ender-3/blob/master/img/bltouch-wiring.jpeg</img>
+<img src="/img/bltouch-wiring.jpeg" />
 
 Please note that ANTCLabs cable colors could be differnet.
 
@@ -72,6 +72,8 @@ The current Marlin dev team consists of:
 - Bob Kuhn [[@Bob-the-Kuhn](https://github.com/Bob-the-Kuhn)] - USA
 - João Brazio [[@jbrazio](https://github.com/jbrazio)] - Portugal
 - Erik van der Zalm [[@ErikZalm](https://github.com/ErikZalm)] - Netherlands &nbsp; [![Flattr Erik](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ErikZalm&url=https://github.com/MarlinFirmware/Marlin&title=Marlin&language=&tags=github&category=software)
+
+- I ONLY make one or two changes from original repository from: https://github.com/damvcoool/Marlin-2.0.x-SKR-Mini-E3-v1.2
 
 ## License
 
