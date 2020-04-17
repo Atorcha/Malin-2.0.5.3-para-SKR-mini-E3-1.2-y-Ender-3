@@ -45,9 +45,9 @@ Creality Ender-3 with SKR Mini E3 v1.2 and Creality BLTouch 3.1
 
 ## BLTouch Wiring
 
-I will be updating this picture later to be more clear, the BLTouch Probe cables should go in the Dedicated Probe PIN PC14, not on the Z-Endstop as others suggest.
+Connected as ANTCLABS web says:
 
-<img src="https://github.com/damvcoool/Marlin-2.0.x-SKR-Mini-E3-v1.2/blob/master/img/SKR%20Mini%20E3%20v1.2%20-%20Ender%203%20-%20Creality%20BLTouch%203.1%20Wiring.png"/>
+https://camo.githubusercontent.com/56b380ce77969d6bf7e4d627094676b2625dc876/68747470733a2f2f692e696d6775722e636f6d2f42524a516e65392e6a7067
 
 Please note that ANTCLabs cable colors could be differnet.
 
@@ -55,12 +55,12 @@ Please note that ANTCLabs cable colors could be differnet.
 
 Please make sure to go over the configuration of the system before installing this Firmware.
 
-4 Flavors, with self explanatory names, BLTouch use a 5x5 grid to probe, and Manual Bed Leveling uses a 3x3 grid.
+4 Flavors, with self explanatory names, BLTouch uses a 5x5 grid to probe, Manual Bed Leveling uses a 3x3 grid, adn 512K 3x3 grid.
 
 - [SKR_Mini_E3_v1.2_256K_BLTouch_v3.1](https://raw.githubusercontent.com/damvcoool/Marlin-2.0.x-SKR-Mini-E3-v1.2/master/bin/SKR_Mini_E3_v1.2_256K_BLTouch_v3.1.bin)
 - [SKR_Mini_E3_v1.2_256K_Manual_Bed_Level](https://raw.githubusercontent.com/damvcoool/Marlin-2.0.x-SKR-Mini-E3-v1.2/master/bin/SKR_Mini_E3_v1.2_256K_Manual_Bed_Level.bin)
+- [SKR_Mini_E3_v1.2_512K_BLTouch_v3.1](https://github.com/AnakinSpain/Malin-2.0.5.3-para-SKR-mini-E3-1.2-y-Ender-3/blob/master/bin/SKR_Mini_E3_v1.2_512K_BLTouch_v3.1.bin)
 
-I am no longer providing 512k variant.
 
 ## Credits
 
